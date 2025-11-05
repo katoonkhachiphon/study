@@ -40,3 +40,7 @@ main
 
 # debug information files
 *.dwo
+
+# repl.it
+.ccls-cache
+.replit
