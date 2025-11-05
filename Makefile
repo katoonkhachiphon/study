@@ -1,5 +1,5 @@
 CXX = g++
-CXXFLAGS = -Wall -g
+CXXFLAGS = -std=c++03 -Wall -g
 LDFLAGS = 
 
 SRC = main
